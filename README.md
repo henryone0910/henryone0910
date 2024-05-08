@@ -13,5 +13,4 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 # Background
 
 - My full name is Doan Anh Duong, I'm a final-year student at Ho Chi Minh University of Science.
-- My average GPA is 3.43/4.0, expected graduation in 2024.
 - My major is data science.
