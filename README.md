@@ -11,6 +11,6 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 </div>
 
 # Background
-
-- My full name is Doan Anh Duong, I'm a final-year student at Ho Chi Minh University of Science.
-- My major is data science.
+- Data Analyst/Data Engineer/ML Engineer/ DL Engineer.
+- Major in Data Science.
+- Related Knowledge in Bioinformatics.
